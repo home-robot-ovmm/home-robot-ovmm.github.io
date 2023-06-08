@@ -21,9 +21,10 @@ Move the toy from the table to the stool.
 Move the box from the stand to the chair. -->
 
 
+<div class="video-row">
 <div class="video-container">
   <video src="./assets/videos/multiport_hub-stool-table_success.mp4" controls="controls" style="max-width: 270px;"></video>
-  <p class="caption">Move the multiport hub from the <br> stool to the table.</p>
+  <p class="caption">Move the multiport hub from the stool to the table.</p>
 </div>
 
 <div class="video-container">
@@ -35,11 +36,13 @@ Move the box from the stand to the chair. -->
   <video src="./assets/videos/box-stand-chair-success.mp4" controls="controls" style="max-width: 270px;"></video>
   <p class="caption">Move the box from the stand to the chair.</p>
 </div>
+</div>
 
 ---
 
 ## Real-world success cases
 
+<div class="video-row">
 <div class="video-container">
   <video src="./assets/videos/ovmm_real_world_success_1_edited.mp4" controls="controls" style="max-width: 400px;"></video>
   <p class="caption">Move the stuffed animal from the chair to the sofa.</p>
@@ -47,6 +50,7 @@ Move the box from the stand to the chair. -->
 <div class="video-container">
   <video src="./assets/videos/ovmm_real_world_success_2_edited.mp4" controls="controls" style="max-width: 400px;"></video>
   <p class="caption">Move the elephant from the chair to the table.</p>
+</div>
 </div>
 
 ---
