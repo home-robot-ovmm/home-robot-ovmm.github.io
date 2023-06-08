@@ -376,3 +376,14 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
+
+.video-container {
+  display: inline-block;
+  text-align: center;
+  margin: 2px;
+}
+
+.caption {
+  font-size: 14px;
+  margin-top: 5px;
+}
