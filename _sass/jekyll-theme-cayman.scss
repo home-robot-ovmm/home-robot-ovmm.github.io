@@ -377,13 +377,26 @@ a {
   color: $blockquote-text-color;
 }
 
+.video-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .video-container {
-  display: inline-block;
+  flex: 0 0 calc(33.33% - 20px);
+  margin: 3px;
   text-align: center;
-  margin: 2px;
 }
 
 .caption {
   font-size: 14px;
   margin-top: 5px;
+  padding: 0 2px;
+  height: 3em; /* Set a fixed height for the caption */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal; /* Allow the caption to wrap to multiple lines */
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Show up to 2 lines of the caption */
+  -webkit-box-orient: vertical;
 }
