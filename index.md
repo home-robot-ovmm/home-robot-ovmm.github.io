@@ -84,6 +84,4 @@ Instruction: *"Move the teapot from the cabinet to the chair"*
 
 Conclusion: RL seems to be doing better at finding object.
 
----
-
 <!-- ### Placing object: RL vs. Heuristic policy -->
